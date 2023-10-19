@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANAS092
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning Coursera
 - 💞️ I’m looking to collaborate with high agencies
 - 📫 How to reach me comment in
